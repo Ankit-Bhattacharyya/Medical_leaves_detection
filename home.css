@@ -1,0 +1,9 @@
+#socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#upload_section {
+    background: rgb(244, 225, 212);
+}
